@@ -24,9 +24,8 @@ public class Projekt {
 		int længde = navn.length();
 		System.out.println("Dit fornavn er "+længde+" bogstaver langt.");
 		
-		
-		
-		System.out.println("Jeg håber du har en god dag.");
-		
+		System.out.println("Fortæl mig din yndlingsfilm.");
+		String film = scan.next();
+		System.out.println("Sikke et tilfælde - jeg er også vild med "+film+".");
 }
 }
