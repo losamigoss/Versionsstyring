@@ -15,7 +15,14 @@ public class Projekt {
 		if (alder>=18) {
 			System.out.println("Du er myndig");
 		}
-
+		
+		System.out.println("Indtast nu dit fornavn, så fortæller jeg længden af det.");
+		
+		
+		String navn = scan.next();
+		
+		int længde = navn.length();
+		System.out.println("Dit fornavn er "+længde+" bogstaver langt.");
 		
 }
 }
