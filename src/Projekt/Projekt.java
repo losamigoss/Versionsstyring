@@ -1,5 +1,6 @@
 package Projekt;
 // Ændring
+//Ændring 2
 import java.util.Scanner;
 
 public class Projekt {
