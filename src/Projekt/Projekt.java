@@ -1,5 +1,5 @@
 package Projekt;
-
+// Ændring
 import java.util.Scanner;
 
 public class Projekt {
